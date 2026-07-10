@@ -19,8 +19,8 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    avatar   = "img/avatar.png"
+    subtitle = "随便写写"
+    avatar   = "img/avatar.jpeg"
 
 [article]
     headingAnchor = false
