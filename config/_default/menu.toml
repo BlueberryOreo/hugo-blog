@@ -18,7 +18,7 @@
 [[social]]
     identifier = "twitter"
     name       = "Twitter"
-    url        = "https://twitter.com"
+    url        = "https://x.com/sjy_2002"
 
     [social.params]
         icon = "brand-twitter"

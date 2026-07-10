@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 日常
+description: 随便记记
 image:
 
 # Badge style
