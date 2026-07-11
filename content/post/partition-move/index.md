@@ -1,7 +1,7 @@
 ---
 title: Linux分区移动记录
 description: Windows-Linux双系统中将Windows的空闲空间给Linux
-slug: procap
+slug: linux-partition
 date: 2026-07-11 9:00:00+0012
 image: partition-0.png
 categories:
